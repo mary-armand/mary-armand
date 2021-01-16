@@ -47,6 +47,14 @@ h5 {
 	color: #b8a07e;	
 }
 
+hr {
+  border-color: #b8a07e;
+  width: 50%;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: auto;
+}
+
 a {
   color: #292929;
   text-decoration: none !important;
@@ -325,6 +333,9 @@ nav ul li a {
   text-align: left;
 }
 
+#line {
+  background: #f7f7f7;
+}
 /*-----------------------------------------------------------------------------------*/
 /*   Services
 /*-----------------------------------------------------------------------------------*/
